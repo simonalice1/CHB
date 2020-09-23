@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Alte Haas Grotesk';
+    src: url('AlteHaasGrotesk_Bold.eot');
+    src: url('AlteHaasGrotesk_Bold.eot?#iefix') format('embedded-opentype'),
+        url('AlteHaasGrotesk_Bold.woff2') format('woff2'),
+        url('AlteHaasGrotesk_Bold.woff') format('woff'),
+        url('AlteHaasGrotesk_Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'iA Writer Quattro V';
+    src: url('iAWriterQuattroV-Italic.eot');
+    src: url('iAWriterQuattroV-Italic.eot?#iefix') format('embedded-opentype'),
+        url('iAWriterQuattroV-Italic.woff2') format('woff2'),
+        url('iAWriterQuattroV-Italic.woff') format('woff'),
+        url('iAWriterQuattroV-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Minion Pro';
+    src: url('MinionPro-Regular.eot');
+    src: url('MinionPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MinionPro-Regular.woff2') format('woff2'),
+        url('MinionPro-Regular.woff') format('woff'),
+        url('MinionPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'iA Writer Quattro V';
+    src: url('iAWriterQuattroV-Regular.eot');
+    src: url('iAWriterQuattroV-Regular.eot?#iefix') format('embedded-opentype'),
+        url('iAWriterQuattroV-Regular.woff2') format('woff2'),
+        url('iAWriterQuattroV-Regular.woff') format('woff'),
+        url('iAWriterQuattroV-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Alte Haas Grotesk';
+    src: url('AlteHaasGrotesk.eot');
+    src: url('AlteHaasGrotesk.eot?#iefix') format('embedded-opentype'),
+        url('AlteHaasGrotesk.woff2') format('woff2'),
+        url('AlteHaasGrotesk.woff') format('woff'),
+        url('AlteHaasGrotesk.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
